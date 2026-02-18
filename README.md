@@ -1,37 +1,37 @@
-# Hi 👋, I'm Olif terecha
+<h1 align="center">Hi 👋, I'm Olif terecha</h1>
 
-💻 Frontend Developer | React Developer  
-📍 Ethiopia  
-🚀 Passionate about building modern web applications  
+<h3 align="center">
+I Passionate about building modern web applications
+</h3>
 
----
-
-## 🚀 About Me
-
-- 🌱 I’m currently learning React & JavaScript
-- 🔭 I’m working on Netflix & Amazon Clone projects
-- 💬 Ask me about React, HTML, CSS, JavaScript
-- 📫 How to reach me: oliftrecha@gmail.com
+<p align="center">
+Frontend Developer | React Developer <br/>
+Ethiopia 🇪🇹
+</p>
 
 ---
 
-## 🛠️ Tech Stack
-
-- HTML
-- CSS
-- JavaScript
-- React
-- Git & GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
+ 
 
 ---
 
-## 📌 Projects
+# About Me
 
-### 🎬 Netflix Clone
-Built using React and TMDB API.
+- I’m currently learning React & JavaScript  
+- I’m working on Netflix & Amazon Clone projects  
 
-### 🛒 Amazon Clone
-E-commerce frontend built with React.
+---
+
+# Tech Stack
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -41,7 +41,7 @@ E-commerce frontend built with React.
 
 ---
 
-## 🤝 Connect With Me
+# Connect With Me
 
 <h2 align="center">🌐 Connect With Me 🌐</h2>
 
@@ -81,12 +81,9 @@ E-commerce frontend built with React.
   <a href="https://dev.to/yourprofile">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
+</p>
+
   
-  <!-- Contact -->
-  <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/
+ 
 
 
